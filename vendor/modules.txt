@@ -1,0 +1,25 @@
+# github.com/dsnet/compress v0.0.1
+github.com/dsnet/compress
+github.com/dsnet/compress/bzip2
+github.com/dsnet/compress/bzip2/internal/sais
+github.com/dsnet/compress/internal
+github.com/dsnet/compress/internal/errors
+github.com/dsnet/compress/internal/prefix
+# github.com/klauspost/compress v1.11.4
+github.com/klauspost/compress/flate
+github.com/klauspost/compress/fse
+github.com/klauspost/compress/huff0
+github.com/klauspost/compress/snappy
+github.com/klauspost/compress/zip
+github.com/klauspost/compress/zstd
+github.com/klauspost/compress/zstd/internal/xxhash
+# github.com/mholt/archiver/v3 v3.3.1-0.20200717210306-3719b73628d2 => github.com/kevinburkemeter/archiver/v3 v3.3.1-0.20210112201330-e7e6c1963b8b
+## explicit
+github.com/mholt/archiver/v3/common
+github.com/mholt/archiver/v3/zip
+# github.com/ulikunitz/xz v0.5.9
+github.com/ulikunitz/xz
+github.com/ulikunitz/xz/internal/hash
+github.com/ulikunitz/xz/internal/xlog
+github.com/ulikunitz/xz/lzma
+# github.com/mholt/archiver/v3 => github.com/kevinburkemeter/archiver/v3 v3.3.1-0.20210112201330-e7e6c1963b8b
